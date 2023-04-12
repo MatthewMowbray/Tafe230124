@@ -1,0 +1,50 @@
+﻿<Page
+    x:Class="Tafe_Universal_Calculator.MorgageCalculator"
+    xmlns:local="using:Tafe_Universal_Calculator"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+
+
+
+
+    <Grid Background="AliceBlue">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Top" >
+            <TextBlock Text="Morgage Calculator" FontSize="45" Margin="40"/>
+
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Principal Borrow $" FontSize="20" Margin="0,5,53,5"/>
+                <TextBox x:ConnectionId='9' Height="30" Width="120" x:Name="principalAmount" Margin="0,5,0,5"/>
+            </StackPanel>
+            <StackPanel  Orientation="Horizontal">
+                <TextBlock Text="Years"  FontSize="20" Margin="0,5,170,5"/>
+                <TextBox x:ConnectionId='8' Height="30" x:Name="yearsTextBox" Width="120" Margin="0,5,0,5"/>
+            </StackPanel>
+            <StackPanel  Orientation="Horizontal">
+                <TextBlock Text="Months"  FontSize="20" Margin="0,5,152,5"/>
+                <TextBox x:ConnectionId='7' Height="30"  x:Name="monthsTextBox" Width="120" Margin="0,5,0,5"/>
+            </StackPanel>
+            <StackPanel  Orientation="Horizontal">
+                <TextBlock Text="Yearly Interest Rate"  FontSize="20" Margin="0,5,44,5"/>
+                <TextBox x:ConnectionId='6' Height="30" x:Name="iRYTextBox" Width="120" Margin="0,5,0,5"/>
+            </StackPanel>
+            <StackPanel  Orientation="Horizontal">
+                <TextBlock Text="Monthly Interest Rate"  FontSize="20" Margin="0,5,26,5"/>
+                <TextBox x:ConnectionId='5' Height="30" x:Name="IRMTextBox" Width="120" Margin="0,5,0,5"/>
+            </StackPanel>
+            <StackPanel  Orientation="Horizontal">
+                <TextBlock Text="Monthly Repayment"  FontSize="20" Margin="0,5,40,5"/>
+                <TextBox x:ConnectionId='4' Height="30" x:Name="repaymentMTextBox" Width="120" Margin="0,5,0,5"/>
+            </StackPanel>
+            <Button x:ConnectionId='2' Content="Calculate"  FontSize="20" Height="40" Width="180"                        />
+            <Button x:ConnectionId='3' Content="Exit"  FontSize="20" Height="40" Width="180"                              />
+        </StackPanel>
+
+
+    </Grid>
+</Page>
+

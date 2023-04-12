@@ -43,5 +43,10 @@ namespace Tafe_Universal_Calculator
             this.Frame.Navigate(typeof(CurrencyConverter));
         }
 
+        private void tripCalculatorTrip_Click(object sender, RoutedEventArgs e)
+        {
+            //Trip Calculator code to be added later
+        }
+
     }
 }

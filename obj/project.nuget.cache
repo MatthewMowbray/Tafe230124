@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zjnXpzlqwB4jwl5LgKROVK0DhGo0BlcJhB3Xt7cWyhuVd9Cw4LK4WGst/VwWl+YCaz5i7DQuMFDUv6UsiTiCOQ==",
+  "dgSpecHash": "8Y+gw6R9CK9jgnjTU1tMtKk1gzS89vB6ML35V4vtuB9Csblh7Gzw5YQGEG2Va3uXsKfZOxzGeqZOpfxl97LV0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\Tafe-Universal Calculator\\Tafe-Universal Calculator.csproj",
+  "projectFilePath": "C:\\Users\\User\\OneDrive\\23014\\Tafe-Universal Calculator.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.12-rel-31116-00\\microsoft.net.native.compiler.2.2.12-rel-31116-00.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.14\\microsoft.net.uwpcoreruntimesdk.2.2.14.nupkg.sha512",

@@ -15,6 +15,7 @@
             <Button  Content="Maths Calculator" FontSize="45" MinWidth="430" MinHeight="100" Margin="10" Click="Button_ClickMathsCalculator"/>
             <Button  Content="Morgage Calculator" FontSize="45" MinWidth="430" MinHeight="100" Margin="10" Click="Button_ClickMorgageCalculator"/>
             <Button  Content="Currency Converter" FontSize="45" MinWidth="430" MinHeight="100" Margin="10" Click="Button_ClickCurrencyConverter"/>
+            <Button  Content="Trip Calculator" FontSize="45" MinWidth="430" MinHeight="100" Margin="10" Click="tripCalculatorTrip_Click"/>
             <Button  Content="Exit" FontSize="45" MinWidth="430" MinHeight="100" Margin="10" />
 
 

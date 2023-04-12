@@ -10262,11 +10262,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Tafe-Universal Calculator\\Tafe-Universal Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\23014\\Tafe-Universal Calculator.csproj",
       "projectName": "Tafe-Universal Calculator",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Tafe-Universal Calculator\\Tafe-Universal Calculator.csproj",
+      "projectPath": "C:\\Users\\User\\OneDrive\\23014\\Tafe-Universal Calculator.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Tafe-Universal Calculator\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive\\23014\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

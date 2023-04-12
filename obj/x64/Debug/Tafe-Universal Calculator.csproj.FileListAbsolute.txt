@@ -1,0 +1,65 @@
+C:\Users\User\OneDrive\23014\bin\x64\Debug\App.xbf
+C:\Users\User\OneDrive\23014\bin\x64\Debug\CurrencyConverter.xbf
+C:\Users\User\OneDrive\23014\bin\x64\Debug\MainMenu.xbf
+C:\Users\User\OneDrive\23014\bin\x64\Debug\MainPage.xbf
+C:\Users\User\OneDrive\23014\bin\x64\Debug\MorgageCalculator.xbf
+C:\Users\User\OneDrive\23014\bin\x64\Debug\Trip Calculator.xbf
+C:\Users\User\OneDrive\23014\bin\x64\Debug\Tafe-Universal Calculator.xr.xml
+C:\Users\User\OneDrive\23014\bin\x64\Debug\Tafe-Universal Calculator.exe
+C:\Users\User\OneDrive\23014\bin\x64\Debug\Tafe-Universal Calculator.pdb
+C:\Users\User\OneDrive\23014\bin\x64\Debug\resources.pri
+C:\Users\User\OneDrive\23014\bin\x64\Debug\AppxManifest.xml
+C:\Users\User\OneDrive\23014\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\User\OneDrive\23014\bin\x64\Debug\Core\Tafe-Universal Calculator.exe
+C:\Users\User\OneDrive\23014\bin\x64\Debug\Tafe-Universal Calculator.build.appxrecipe
+C:\Users\User\OneDrive\23014\bin\x64\Debug\System.Runtime.dll
+C:\Users\User\OneDrive\23014\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\User\OneDrive\23014\obj\x64\Debug\Tafe-Universal Calculator.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\23014\obj\x64\Debug\App.g.i.cs
+C:\Users\User\OneDrive\23014\obj\x64\Debug\App.g.cs
+C:\Users\User\OneDrive\23014\obj\x64\Debug\CurrencyConverter.g.i.cs
+C:\Users\User\OneDrive\23014\obj\x64\Debug\CurrencyConverter.g.cs
+C:\Users\User\OneDrive\23014\obj\x64\Debug\MainMenu.g.i.cs
+C:\Users\User\OneDrive\23014\obj\x64\Debug\MainMenu.g.cs
+C:\Users\User\OneDrive\23014\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\User\OneDrive\23014\obj\x64\Debug\MainPage.g.cs
+C:\Users\User\OneDrive\23014\obj\x64\Debug\MorgageCalculator.g.i.cs
+C:\Users\User\OneDrive\23014\obj\x64\Debug\MorgageCalculator.g.cs
+C:\Users\User\OneDrive\23014\obj\x64\Debug\Trip Calculator.g.i.cs
+C:\Users\User\OneDrive\23014\obj\x64\Debug\Trip Calculator.g.cs
+C:\Users\User\OneDrive\23014\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\User\OneDrive\23014\obj\x64\Debug\App.xaml
+C:\Users\User\OneDrive\23014\obj\x64\Debug\CurrencyConverter.xaml
+C:\Users\User\OneDrive\23014\obj\x64\Debug\MainMenu.xaml
+C:\Users\User\OneDrive\23014\obj\x64\Debug\MainPage.xaml
+C:\Users\User\OneDrive\23014\obj\x64\Debug\MorgageCalculator.xaml
+C:\Users\User\OneDrive\23014\obj\x64\Debug\Trip Calculator.xaml
+C:\Users\User\OneDrive\23014\obj\x64\Debug\App.xbf
+C:\Users\User\OneDrive\23014\obj\x64\Debug\CurrencyConverter.xbf
+C:\Users\User\OneDrive\23014\obj\x64\Debug\MainMenu.xbf
+C:\Users\User\OneDrive\23014\obj\x64\Debug\MainPage.xbf
+C:\Users\User\OneDrive\23014\obj\x64\Debug\MorgageCalculator.xbf
+C:\Users\User\OneDrive\23014\obj\x64\Debug\Trip Calculator.xbf
+C:\Users\User\OneDrive\23014\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\User\OneDrive\23014\obj\x64\Debug\Tafe-Universal Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\23014\obj\x64\Debug\Tafe-Universal Calculator.csproj.CopyComplete
+C:\Users\User\OneDrive\23014\obj\x64\Debug\Tafe-Universal Calculator.exe
+C:\Users\User\OneDrive\23014\obj\x64\Debug\Tafe-Universal Calculator.pdb
+C:\Users\User\OneDrive\23014\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\User\OneDrive\23014\obj\x64\Debug\priconfig.xml
+C:\Users\User\OneDrive\23014\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\User\OneDrive\23014\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\User\OneDrive\23014\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\User\OneDrive\23014\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\User\OneDrive\23014\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\User\OneDrive\23014\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\User\OneDrive\23014\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\User\OneDrive\23014\obj\x64\Debug\resources.resfiles
+C:\Users\User\OneDrive\23014\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\User\OneDrive\23014\obj\x64\Debug\pri.resfiles
+C:\Users\User\OneDrive\23014\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\User\OneDrive\23014\obj\x64\Debug\qualifiers.txt
+C:\Users\User\OneDrive\23014\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\User\OneDrive\23014\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\User\OneDrive\23014\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\User\OneDrive\23014\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637935274560000000.json
