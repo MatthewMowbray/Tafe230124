@@ -5,6 +5,7 @@ using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
+using Windows.UI.Popups;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
@@ -48,5 +49,14 @@ namespace Tafe_Universal_Calculator
             //Trip Calculator code to be added later
         }
 
+        private async void ButtonCalculatorScientific_Click(object sender, RoutedEventArgs e)
+        {
+            
+            var dialogMessage = new MessageDialog("Scientific Calculator, coming soon");
+            await dialogMessage.ShowAsync();
+            return;
+           
+
+        }
     }
 }
